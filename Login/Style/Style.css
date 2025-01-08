@@ -40,7 +40,7 @@ h1{
 }
 
 .form-container{
-	margin:5rem auto 5rem 15rem;
+	margin:5rem auto;
 }
 
 /* footer section  */
@@ -77,5 +77,8 @@ i:hover{
 	}
 	.text-area{
 		width:20rem;
+	}
+	.form-container{
+		margin-left:15rem;
 	}
 }
